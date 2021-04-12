@@ -127,9 +127,10 @@ h1 {
     margin-top: 24px;
 }
 
-button {
+.button {
     background: #6E78E2;
     height: 40px;
+    text-decoration: none;
     display: inline-flex;
     align-items: center;
     color: white;
